@@ -597,4 +597,7 @@ endmodule
 // End:
 
 //branch_test
+<<<<<<< HEAD
 //master
+=======
+>>>>>>> feature1
